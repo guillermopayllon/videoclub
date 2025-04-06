@@ -1,2 +1,4 @@
-# videoclub
-Proyecto de programa para la gestión completa de un Video Club
+# VideoClub
+<p>Proyecto para la gestión del catálogo de películas que tenemos disponibles para su alquiler en nuestro video club</p>
+
+
